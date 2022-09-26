@@ -1,2 +1,2 @@
 # trillo
-Project in Advanced CSS course
+Project in Advanced CSS course using Flexbox
